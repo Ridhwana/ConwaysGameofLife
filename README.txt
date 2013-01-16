@@ -1,4 +1,4 @@
-The Game of LIfe is a grid of square cells, which either have a state of dead or alive. Each cell interacts with its eight neighbours. at each step one of the following transitions occur:
+The Game of LIfe is a grid of square cells, which either has a state of dead or alive. Each cell interacts with its eight neighbours. At each step one of the following transitions occur:
 1. Any live cell with fewer than two live neighbours dies, as if caused by under-population.
 2. Any live cell with two or three live neighbours lives on to the next generation.
 3. Any live cell with more than three live neighbours dies, as if by overcrowding.
